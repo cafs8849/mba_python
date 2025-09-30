@@ -1,0 +1,10 @@
+# Ignorar arquivos e pastas específicas do projeto
+/venv/
+.env
+__pycache__/
+*.pyc
+*.csv 
+*.parquet
+*.png 
+# Ignorar arquivos temporários e de log
+
